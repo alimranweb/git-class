@@ -1,9 +1,18 @@
-body{
+body {
     font-family: 'Karla', sans-serif; 
 }
-h1{
+h1 {
     font-size: 50px;
 }
-.name-highlight{
+.name-highlight {
     color: orange;
+}
+.haf-width {
+    width: 40%;
+    float:left;
+    margin: 5px;
+    padding: 2px;
+}
+.haf-width img {
+    width: 100%;
 }
